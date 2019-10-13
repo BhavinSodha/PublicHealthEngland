@@ -2,7 +2,7 @@
  
  **Refugee Analysis** 
 
-Creating a definitive dtaset of 1443 health indicators for England to use for future analysis.
+Creating a definitive dataset of 1443 health indicators for England to use for future analysis.
 
 ___
 **Project Status** 
