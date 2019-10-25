@@ -7,7 +7,7 @@ Creating a definitive dataset of 1443 health indicators for England to use for f
 ___
 **Project Status** 
 
-Running initial script and analysing a subset of the data.
+Running initial script and analysing a subset of the data. Next steps are to gather the full dataset, exploratory data analysis and potential use with predictive AI.
 
 ___
 **Structure**
