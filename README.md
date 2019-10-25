@@ -7,12 +7,12 @@ Creating a definitive dataset of 1443 health indicators for England to use for f
 ___
 **Project Status** 
 
-Mofyifing initial script and running exploratory analysis.
+Running initial script and analysing a subset of the data.
 
 ___
 **Structure**
 
-To be completed.
+The PHE script gathers and structures the dataset.
 
 ___
 **Data Sources**
