@@ -19,10 +19,3 @@ ___
 
 The open data source comes from the link: 
 [Source Data Link](https://fingertips.phe.org.uk/)
-
-___
-**Author**
-
-[The Data Inspector](http://thedatainspector.com)
-
-</center>
